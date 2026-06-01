@@ -67,10 +67,6 @@ status  : Building AI-driven solutions 🚀
 ### 📈 GitHub Stats
 
 <p align="center">
- username=Cyberhaxker&layout=compact&theme=radical&bg_color=060e20&title_color=73ffe3&text_color=dee5ff&border_color=192540&hide_border=false&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberhaxker&theme=radical&background=060e20&ring=73ffe3&fire=ac89ff&currStreakLabel=73ffe3&sideLabels=dee5ff&border=192540" />
 </p>
 
