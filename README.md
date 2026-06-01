@@ -67,8 +67,7 @@ status  : Building AI-driven solutions 🚀
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberhaxker&show_icons=true&theme=radical&bg_color=060e20&title_color=73ffe3&icon_color=ac89ff&text_color=dee5ff&border_color=192540&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberhaxker&layout=compact&theme=radical&bg_color=060e20&title_color=73ffe3&text_color=dee5ff&border_color=192540&hide_border=false&langs_count=8" />
+ username=Cyberhaxker&layout=compact&theme=radical&bg_color=060e20&title_color=73ffe3&text_color=dee5ff&border_color=192540&hide_border=false&langs_count=8" />
 </p>
 
 <p align="center">
