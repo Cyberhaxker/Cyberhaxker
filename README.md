@@ -72,26 +72,6 @@ status  : Building AI-driven solutions 🚀
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyberhaxker&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=6" />
-</p>
-
----
-
-### 💡 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Cyberhaxker/YOUR_PROJECT_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberhaxker&repo=YOUR_PROJECT_1&bg_color=060e20&title_color=73ffe3&icon_color=ac89ff&text_color=dee5ff&border_color=192540" />
-  </a>
-  <a href="https://github.com/Cyberhaxker/YOUR_PROJECT_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberhaxker&repo=YOUR_PROJECT_2&bg_color=060e20&title_color=73ffe3&icon_color=ac89ff&text_color=dee5ff&border_color=192540" />
-  </a>
-</p>
-
----
 
 ### 📡 Contribution Graph
 
